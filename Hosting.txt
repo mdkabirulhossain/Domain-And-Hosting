@@ -1,0 +1,21 @@
+Q1. Definition of web Hosting?
+= Web hosting is an online service that makes your website’s content accessible on the internet.
+
+Q2. Types of Hosting
+Shared Hosting: Multiple websites share the same server resources. It’s affordable and suitable for beginners or small websites but may experience slower speeds during high traffic.
+VPS (Virtual Private Server) Hosting: A server is divided into multiple virtual servers, offering better control and performance than shared hosting.
+Dedicated Hosting: You get an entire physical server dedicated to your website, ideal for large sites needing high performance and full control, though it’s more expensive.
+Cloud Hosting: Uses multiple servers to balance load and maximize uptime. It's scalable and good for websites with varying traffic levels.
+Managed Hosting: A provider manages the server, security, updates, and backups for you. Popular for applications like WordPress.
+Serverless Hosting: Offers on-demand resources without server management, with pricing based on usage (e.g., AWS Lambda).
+
+Q3. Domain & Hosting Connection
+A domain name (like yourwebsite.com) is linked to your hosting server. When users type your domain, the browser requests files from the hosting server and displays the website.
+Q4. Key Features in Hosting Plans
+Storage: Amount of space for files, images, databases, etc.
+Bandwidth: Amount of data transfer available; affects speed and data caps.
+Uptime: Server reliability, usually aiming for 99.9%+ uptime.
+SSL Certificates: Security protocol for encrypting data.
+Support: Assistance provided for technical issues.
+Q5 Hosting Providers
+Some popular hosting providers are Bluehost, HostGator, SiteGround, and cloud providers like AWS, Google Cloud, and DigitalOcean.

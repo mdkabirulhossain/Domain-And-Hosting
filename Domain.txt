@@ -1,0 +1,26 @@
+Q1. What are domains and examples?
+A domain name is a string of text that maps to an alphanumeric IP address, used to access a website from client software. In plain English, a domain name is the text that a user types into a browser window to reach a particular website. For instance, the domain name for Google is 'google.com'.
+
+Key Components of a Domain
+Domain Name:
+
+This is the part that users type into their browser (e.g., example.com).
+It consists of a unique name and an extension (also known as a TLD).
+Top-Level Domain (TLD):
+
+The part at the end of the domain, such as .com, .org, .net, or country-specific ones like .uk or .jp.
+TLDs categorize domains. Some are general-purpose (like .com for commercial sites), while others have specific purposes or restrictions (like .gov for government websites).
+Second-Level Domain (SLD):
+
+This is the unique name chosen by the site owner, which comes before the TLD. For example, in example.com, example is the SLD.
+It identifies the entity or business owning the domain.
+Subdomains:
+
+Subdomains allow for structuring sections of a website under the main domain. They appear before the second-level domain, like blog.example.com or support.example.com.
+They’re useful for creating different sections or services under one main domain.
+How Domains Work
+When you enter a domain name in a browser:
+
+Domain Name System (DNS): The DNS translates the human-readable domain name into an IP address that corresponds to the website's server.
+Server Communication: Once the IP address is identified, the browser connects to the web server where the website is hosted.
+Website Loading: The server sends back the website’s files, and the browser displays the content.
